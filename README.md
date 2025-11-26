@@ -1,7 +1,7 @@
 # 📊 E‑Commerce Sales Performance Analysis
 
 ## 📌 Project Overview
-This project delivers an end‑to‑end analysis of e‑commerce sales transactions (11,000+ rows) using **Python, Excel, and Power BI**. The goal is to clean and explore raw sales data, define business KPIs, and build interactive dashboards that provide actionable insights into revenue growth, product trends, regional performance, and customer behavior.
+This project delivers an end‑to‑end analysis of e‑commerce sales transactions (~11,000 rows) using **Python, Excel and Power BI**. The goal is to clean and explore raw sales data, define business KPIs and build interactive dashboards that provide actionable insights into revenue growth, product trends, regional performance and customer behavior.
 
 ---
 
@@ -16,7 +16,7 @@ This project delivers an end‑to‑end analysis of e‑commerce sales transacti
 ---
 
 ## 🗂 Dataset
-- **Rows:** 11,000 synthetic transactions
+- **Rows:** ~11,000 synthetic transactions
 - **Columns:**
   - `OrderID` – unique transaction ID  
   - `OrderDate` – purchase date  

@@ -71,4 +71,4 @@ This project delivers an end‑to‑end analysis of e‑commerce sales transacti
 - `ecommerce_sales_clean.xlsx` – cleaned dataset.
 - `notebooks/EDA.ipynb` – Python exploratory analysis.
 - `powerbi/dashboard.pbix` – interactive dashboard.
-- Screenshots of Power BI visuals for quick portfolio review.
+- PDF of Power BI visuals for quick portfolio review.
